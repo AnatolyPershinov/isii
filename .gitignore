@@ -126,7 +126,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
+nenv/
 # Pyre type checker
 .pyre/
 /dss.tgz
