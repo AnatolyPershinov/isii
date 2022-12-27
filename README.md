@@ -2,5 +2,8 @@
 
 - [Работа 1](./work1.ipynb)
 
-
 - [Работа 2](./work2.ipynb)
+
+- [Работа 3](./work3.ipynb)
+
+- [Работа 4](./work4.ipynb)
